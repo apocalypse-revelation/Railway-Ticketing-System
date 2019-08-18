@@ -1,2 +1,2 @@
 # Railway-Ticketing-System
-it is a very simple programme code by Clion for c++
+##it is a very simple programme code by Clion for c++,display on console screen.
