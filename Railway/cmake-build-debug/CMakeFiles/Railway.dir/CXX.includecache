@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cw/CLionProjects/Railway/ServiceDesk.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+railway_method.h
+/Users/cw/CLionProjects/Railway/railway_method.h
+
+/Users/cw/CLionProjects/Railway/other_method.h
+
+/Users/cw/CLionProjects/Railway/railway_method.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+time.h
+-
+sys/timeb.h
+-
+other_method.h
+/Users/cw/CLionProjects/Railway/other_method.h
+
